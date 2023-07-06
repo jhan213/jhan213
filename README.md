@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Jae and I graduated from UCLA with a BS in Statistics.
+
+My coding projects can be found in the 'Repositories' section and include projects from college courses, a coding bootcamp at UCLA Extension, and personal endeavors.
+
+I'm open to any contributions and feel free to reach out to me through my contact info below. 
+
+Contact
+Email: jhan213840@gmail.com
+
 <!--
 **jhan213/jhan213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
