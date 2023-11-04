@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jae and I graduated from UCLA with a BS in Statistics.
+I'm Jae.
 
 My coding projects can be found in the 'Repositories' section and include projects from college courses, a coding bootcamp at UCLA Extension, and personal endeavors.
 
